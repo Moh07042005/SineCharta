@@ -1,9 +1,10 @@
 version: "2"
 
 build:
-  os: "ubuntu-lts-latest"
+  os: "windows-latest"
   tools:
-    java:"20"
+    java:
+      version: "20"
 
 python:
   install:
