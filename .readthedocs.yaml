@@ -1,9 +1,9 @@
 version: "2"
 
 build:
-  os: "windows-latest"
+  os: "ubuntu-lts-latest"  # or you can use "ubuntu-20.04", "ubuntu-22.04", or "ubuntu-24.04"
   tools:
-    java:
+    java: 
       version: "20"
 
 python:
