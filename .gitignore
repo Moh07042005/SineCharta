@@ -157,3 +157,5 @@ cython_debug/
 
 #Ignore IntelliJ .idea Folder
 .idea
+#Ignore VS-Code specific Files
+.vscode
